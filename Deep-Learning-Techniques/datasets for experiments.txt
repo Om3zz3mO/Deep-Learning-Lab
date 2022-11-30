@@ -1,0 +1,11 @@
+lab 1: no dataset
+lab 2:breast cancer(alredy imported)
+lab 3:iris(1).data
+lab 4, 5:boston housing(already imported)
+lab 6: malaria cell(zip file Download from https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+lab 7:MNIST dataset(already imported)
+lab 8:cifar10(already imported)
+lab 9:no dataset
+lab 10:tf.flowers(already imported)
+lab 11:no dataset
+lab 12:ner_dataset
